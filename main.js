@@ -5,12 +5,11 @@ var blue = [196, 77, 55];
 var purple = [280, 50, 60];
 
 var myName = "DreamCoder";
-var letterColors=[red, orange, green, blue, purple];
-if(12>18) {
+var letterColors = [red, orange, green, blue, purple];
+// make if true to change bubleShape circles
+if (12 > 18) {
     bubbleShape = "circle";
-}
-
-else {
+} else {
     bubbleShape = "square";
 }
 
